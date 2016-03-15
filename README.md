@@ -3,5 +3,7 @@ A small and handy shell script for generating all 24 different icon sizes needed
 
 This is a modified version of the script created by Kodira http://kodira.de/2013/11/ios-7-app-icon-template-inkscape-svg-editor/
 
-To use on mac uncomment the line:
-# INK=/Applications/Inkscape.app/Contents/Resources/bin/inkscape
+To use on mac, uncomment:
+<code># INK=/Applications/Inkscape.app/Contents/Resources/bin/inkscape</code>
+And comment out:
+<code>INK=/usr/bin/inkscape</code>
