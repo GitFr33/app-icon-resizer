@@ -41,6 +41,7 @@ $INK -z -D -e "$BASE-android-market.png" -f 	$SVG -w 512 -h 512
 # iPhone Spotlight iOS5,6 Settings iOS and iPad 5-7 29pt
 $INK -z -D -e "$BASE-29.png" -f 	$SVG -w 29 -h 29
 $INK -z -D -e "$BASE-29@2x.png" -f 	$SVG -w 58 -h 58
+$INK -z -D -e "$BASE-29@3x.png" -f 	$SVG -w 87 -h 87
 
 # iPhone Spotlight iOS7 40pt
 $INK -z -D -e "$BASE-40@2x.png" -f 	$SVG -w 80 -h 80
@@ -50,7 +51,9 @@ $INK -z -D -e "$BASE-57.png" -f 	$SVG -w 57 -h 57
 $INK -z -D -e "$BASE-57@2x.png" -f 	$SVG -w 114 -h 114
 
 # iPhone App iOS 7 60pt
+$INK -z -D -e "$BASE-60.png" -f 	$SVG -w 60 -h 60
 $INK -z -D -e "$BASE-60@2x.png" -f 	$SVG -w 120 -h 120
+$INK -z -D -e "$BASE-60@3x.png" -f 	$SVG -w 180 -h 180
 
 # iPad Spotlight iOS 7 40pt
 $INK -z -D -e "$BASE-40.png" -f 	$SVG -w 40 -h 40
@@ -62,6 +65,7 @@ $INK -z -D -e "$BASE-50@2x.png" -f 	$SVG -w 100 -h 100
 # iPad App iOS 5,6 72pt
 $INK -z -D -e "$BASE-72.png" -f 	$SVG -w 72 -h 72
 $INK -z -D -e "$BASE-72@2x.png" -f 	$SVG -w 144 -h 144
+$INK -z -D -e "$BASE-83.5@2x.png" -f 	$SVG -w 167 -h 167
 
 # iPad App iOS 7  76pt
 $INK -z -D -e "$BASE-76.png" -f 	$SVG -w 76 -h 76 
